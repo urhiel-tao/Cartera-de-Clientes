@@ -1,0 +1,18 @@
+{
+  "leads": [],
+  "inquiries": [
+    {
+      "id": "inq-demo-1",
+      "businessName": "Centro Odontológico Sonrisa Clara",
+      "contactName": "Dra. Valeria Gómez",
+      "phone": "+54 9 11 5555-0231",
+      "email": "administracion@sonrisaclara.example",
+      "rubro": "salud",
+      "currentPainPoint": "Queremos modernizar la web para que sea adaptable a celular y sumar turnos online con recordatorios por WhatsApp.",
+      "website": "http://sonrisaclara-ejemplo.com.ar",
+      "leadId": "lead-demo-3",
+      "createdAt": "2026-11-18T17:16:28.378Z",
+      "status": "pendiente"
+    }
+  ]
+}
